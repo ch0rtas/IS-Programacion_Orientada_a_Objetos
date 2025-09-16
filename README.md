@@ -11,7 +11,7 @@ Este repositorio incluye una variedad de proyectos relacionados con aplicaciones
 Clona este repositorio en tu equipo:
 
 ```bash
-git clone https://github.com/ch0rtas/IS-Programacion_Orientada_a_Objetos.git
+git clone https://github.com/ch0rtas/SWE-Programacion_Orientada_a_Objetos.git
 ```
 Explora las carpetas para acceder a los diferentes proyectos y sigue las instrucciones específicas dentro de cada uno para su implementación.
 
